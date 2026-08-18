@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Pander Score"
+message: "If you use this benchmark or its results, please cite the accompanying paper."
+type: software
+authors:
+  - family-names: "Botas"
+    given-names: "Alejandro"
+  - family-names: "de Font-Reaulx"
+    given-names: "Paul"
+  - family-names: "Hewitt"
+    given-names: "Luke"
+license: MIT
+version: "1.0.0"
+date-released: 2026-08-17
+repository-code: "https://github.com/sophronresearch/pander-score"
+preferred-citation:
+  type: article
+  title: "The Pander Score: A Continuous Measure of Sycophancy as Epistemic Deference"
+  authors:
+    - family-names: "Botas"
+      given-names: "Alejandro"
+    - family-names: "de Font-Reaulx"
+      given-names: "Paul"
+    - family-names: "Hewitt"
+      given-names: "Luke"
+  year: 2026

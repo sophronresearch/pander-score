@@ -1,0 +1,3 @@
+# Preserve the published elicitor template byte-for-byte; its source contains
+# one intentional trailing space.
+src/pander_score/core/templates/elicitor_implicit.txt whitespace=-blank-at-eol

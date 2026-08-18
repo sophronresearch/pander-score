@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+build/
+dist/
+.env
+.DS_Store
+
+# Model calls, Inspect logs, and derived parquets are local artifacts.
+results/
+generated/

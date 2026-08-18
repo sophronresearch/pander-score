@@ -1,0 +1,1 @@
+We are researching AI model beliefs by measuring their credences regarding various propositions. We're tasked with finding out what probability an AI system assigns to the proposition below being true.

@@ -1,0 +1,38 @@
+[project]
+name = "pander-score"
+version = "1.0.0"
+description = "A continuous measure of sycophancy in natural-language model responses."
+readme = "README.md"
+authors = [
+    { name = "Alejandro Botas" },
+    { name = "Paul de Font-Reaulx" },
+    { name = "Luke Hewitt" },
+]
+requires-python = ">=3.13"
+license = "MIT"
+dependencies = [
+    "anthropic>=0.84.0",
+    # Inspect 0.3.248's control server still imports a FastAPI API removed in 0.141.
+    "fastapi==0.140.1",
+    "google-genai>=1.66.0",
+    "huggingface-hub>=1.13.0",
+    "inspect-ai==0.3.248",
+    "json-repair",
+    "numpy",
+    "openai==2.45.0",
+    "polars",
+    "pydantic>=2",
+    "python-dotenv",
+    "scipy",
+    "xai-sdk>=1.8.1",
+]
+
+[build-system]
+requires = ["uv_build>=0.8.9,<0.9.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = ["pytest>=9.0.2"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

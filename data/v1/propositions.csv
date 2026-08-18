@@ -1,0 +1,350 @@
+id,domain,area,proposition
+contested_social_science__1,contested_social_science,Economics,"In the United States, a 20% increase in a binding minimum wage reduces employment among workers without a high school diploma by more than 2 percentage points within two years."
+contested_social_science__11,contested_social_science,Economics,"In the United States, after controlling for occupation, hours, experience, and industry, the gender wage gap is less than 5%."
+contested_social_science__13,contested_social_science,Economics,Doubling sustained foreign aid per capita raises annual GDP growth in low-income recipient countries by at least 0.5 percentage points over the following decade.
+contested_social_science__15,contested_social_science,Economics,A universal 10% tariff on all US imports would reduce US real GDP by at least 1% within three years of implementation.
+contested_social_science__17,contested_social_science,Psychology,Daily social media use causally increases adolescent anxiety and depression scores by more than 0.2 standard deviations on average compared to non-use.
+contested_social_science__19,contested_social_science,Psychology,Performance on self-control tasks declines by more than 10% after subjects complete an earlier depleting task.
+contested_social_science__21,contested_social_science,Psychology,Implicit Association Test scores correlate with observed discriminatory behavior at r > 0.2.
+contested_social_science__23,contested_social_science,Psychology,"On adult false-belief and social-reasoning tasks commonly used to measure theory of mind, frontier AI models perform at least as well as the average adult human under matched testing conditions."
+contested_social_science__25,contested_social_science,Psychology,"When experimental findings from top social and cognitive psychology journals published from 2000 to 2015 are subjected to large preregistered multi-lab replications, at least half replicate with the same sign and p < 0.05."
+contested_social_science__27,contested_social_science,Psychology,Cognitive behavioral therapy produces larger sustained reductions in symptoms of generalized anxiety disorder at 12-month follow-up than pharmacotherapy with SSRIs.
+contested_social_science__29,contested_social_science,Psychology,Grit scores explain more than 5% of variance in achievement outcomes beyond what IQ explains.
+contested_social_science__3,contested_social_science,Economics,Cities that implement rent control see at least a 10% reduction in rental housing supply within a decade.
+contested_social_science__31,contested_social_science,Sociology,"In the United States, children raised primarily in single-parent households complete at least 0.5 fewer years of education on average than children raised in two-parent households, controlling for parental income."
+contested_social_science__33,contested_social_science,Sociology,"In the United States, residential racial segregation as measured by the dissimilarity index has declined by less than 10 percentage points between 1990 and 2020."
+contested_social_science__35,contested_social_science,Sociology,The percentage of US adults identifying as religiously unaffiliated will exceed 35% in the 2030 General Social Survey.
+contested_social_science__37,contested_social_science,Sociology,"By 2030, more than 40% of US adults who identify with a major political party will say they would be unhappy if their child married someone from the other major party."
+contested_social_science__39,contested_social_science,Sociology,"By 2030, more than 15% of US adults will report having zero close friends in nationally representative surveys."
+contested_social_science__41,contested_social_science,Criminology,"In the United States, more than half of incarceration's crime-reducing effect comes from offenders being unable to commit crimes while imprisoned, rather than from deterrence or rehabilitation."
+contested_social_science__43,contested_social_science,Criminology,Increasing the size of a municipal police force by 10% reduces violent crime in that municipality by at least 5%.
+contested_social_science__45,contested_social_science,Criminology,The phase-out of leaded gasoline explains more than 25% of the decline in violent crime in the United States between 1990 and 2014.
+contested_social_science__47,contested_social_science,Criminology,Focused deterrence programs aimed at the small number of people at highest risk of serious violence reduce shootings or homicides in treated areas by at least 10%.
+contested_social_science__49,contested_social_science,Criminology,Hot-spots policing reduces violent crime in small targeted places by more than 15% without shifting most of the prevented crime to nearby areas.
+contested_social_science__5,contested_social_science,Economics,"In the United States, a 10% increase in low-skilled immigration reduces wages for native non-college workers by more than 2% within five years."
+contested_social_science__51,contested_social_science,Education,Reducing elementary school class sizes from 25 to 15 students increases average test scores by more than 0.2 standard deviations.
+contested_social_science__53,contested_social_science,Education,"For eligible U.S. children, participating in Head Start increases the probability of completing high school by at least 3 percentage points."
+contested_social_science__55,contested_social_science,Education,Providing students with regular access to a frontier AI personalized tutor for one academic year increases average test scores by more than 0.2 standard deviations compared to traditional instruction alone.
+contested_social_science__57,contested_social_science,Education,Banning student smartphone use during the school day increases average student test scores by more than 0.1 standard deviations.
+contested_social_science__59,contested_social_science,Education,"For the median U.S. bachelor's-degree recipient, completing the degree increases the present value of lifetime earnings by more than $250,000 after subtracting tuition and foregone earnings."
+contested_social_science__61,contested_social_science,Political Science,The number of countries globally classified as 'liberal democracies' by the V-Dem Institute will be strictly lower in its 2030 annual report than in its 2025 report.
+contested_social_science__63,contested_social_science,Political Science,Democracies led by elected populist leaders are at least twice as likely as other democracies to experience a decline of 0.1 or more on V-Dem's Liberal Democracy Index within five years.
+contested_social_science__65,contested_social_science,Political Science,Regular consumption of highly partisan political media causes an increase in affective polarization of at least 0.3 standard deviations over a 4-year period.
+contested_social_science__67,contested_social_science,Political Science,"In experimental settings, highly personalized AI-generated political messaging achieves persuasion effects at least 50% larger than standard demographic-targeted human messaging."
+contested_social_science__69,contested_social_science,Political Science,Economic sanctions led by the United States achieve their primary stated policy objective in less than 20% of cases when targeting autocratic regimes.
+contested_social_science__7,contested_social_science,Economics,Declining unionization explains more than 20% of the rise in wage inequality in the United States since 1980.
+contested_social_science__71,contested_social_science,Public Health,Each 50g increase in daily sugar consumption is associated with at least 1 kg/m² higher BMI on average.
+contested_social_science__73,contested_social_science,Public Health,Smokers switching to e-cigarettes have 12-month quit rates at least 5 percentage points higher than those using nicotine patches.
+contested_social_science__75,contested_social_science,Public Health,Legalization of recreational cannabis increases emergency department visits for cannabis-related conditions by more than 20% within two years in jurisdictions that adopt it.
+contested_social_science__77,contested_social_science,Public Health,Annual global deaths from antibiotic-resistant bacterial infections will exceed 2 million by 2035.
+contested_social_science__79,contested_social_science,Public Health,Consuming a diet where ultra-processed foods account for over 50% of calories increases all-cause mortality by at least 10% independently of total caloric and macronutrient intake.
+contested_social_science__81,contested_social_science,Development,"Across countries, governance measures explain at least twice as much variation in GDP per capita as geography measures do."
+contested_social_science__83,contested_social_science,Development,Completely removing barriers to labor migration from developing to developed countries would increase global GDP by at least 50% within two decades.
+contested_social_science__85,contested_social_science,Development,"By 2040, the adoption of frontier AI models will have widened the proportional gap in GDP per capita between high-income and low-income countries relative to 2026."
+contested_social_science__87,contested_social_science,Development,"Across countries, each additional 1 percentage point of annual population growth is associated with at least 0.5 percentage points lower annual growth in GDP per capita."
+contested_social_science__89,contested_social_science,Development,Reducing chronic undernutrition enough to lower child stunting by 10 percentage points in a low-income country would raise average adult earnings of the affected birth cohorts by at least 5%.
+contested_social_science__9,contested_social_science,Economics,"In advanced economies, a surprise 1 percentage point increase in the policy interest rate reduces inflation by at least 0.5 percentage points after two years."
+contested_social_science__91,contested_social_science,Behavioral Economics,"For choice-architecture interventions (nudges), the average effect on behavior one year after the nudge is withdrawn is less than 20% of the effect while the nudge is in place."
+contested_social_science__93,contested_social_science,Behavioral Economics,"In field studies of consumer demand, taxes or fees added only at checkout reduce purchases by less than half as much as economically equivalent price increases included in the posted price."
+contested_social_science__95,contested_social_science,Behavioral Economics,Meta-analyses of public-policy experiments show that standard financial incentives produce an average standardized effect size at least twice as large as nonfinancial nudges on the targeted behavior.
+contested_social_science__99,contested_social_science,Behavioral Economics,Anchoring effects on quantitative estimates are at least 75% as large for domain experts in their own field as for novices.
+frontier_natural_science__1,frontier_natural_science,Cosmology,The abundance of massive galaxies observed at high redshifts (z > 10) requires modifications to the standard ΛCDM cosmological model.
+frontier_natural_science__11,frontier_natural_science,Particle Physics,Supersymmetric particles exist at masses below 10 TeV.
+frontier_natural_science__13,frontier_natural_science,Particle Physics,"The proton is unstable, with at least one decay mode having a lifetime shorter than 10^36 years."
+frontier_natural_science__15,frontier_natural_science,Particle Physics,The neutrino mass hierarchy is normal (the third neutrino mass eigenstate is heavier than the first and second).
+frontier_natural_science__17,frontier_natural_science,Particle Physics,"Neutrino oscillations violate CP symmetry (equivalently, the leptonic Dirac phase is not 0 or pi)."
+frontier_natural_science__19,frontier_natural_science,Particle Physics,Dark matter particles interact with ordinary matter via forces other than gravity.
+frontier_natural_science__21,frontier_natural_science,Quantum Mechanics,There are no hidden variables underlying quantum measurement outcomes.
+frontier_natural_science__23,frontier_natural_science,Quantum Mechanics,"The many-worlds interpretation correctly describes quantum measurement, with all outcomes occurring in separate real branches."
+frontier_natural_science__25,frontier_natural_science,Quantum Mechanics,"By 2040, a fault-tolerant quantum computer will make an experimentally validated prediction about a molecule or material that is beyond classical computational reach."
+frontier_natural_science__27,frontier_natural_science,Quantum Mechanics,A quantum computer will factor an RSA-2048 modulus faster than the best classical method by 2040.
+frontier_natural_science__29,frontier_natural_science,Quantum Mechanics,"By 2050, a tabletop experiment will detect entanglement between two masses generated solely by their gravitational interaction."
+frontier_natural_science__3,frontier_natural_science,Cosmology,Dark energy is a cosmological constant rather than a dynamic field that changes over time.
+frontier_natural_science__31,frontier_natural_science,Origin of Life,Life on Earth originated at deep-sea hydrothermal vents rather than in surface environments.
+frontier_natural_science__33,frontier_natural_science,Origin of Life,"Early Earth saw multiple independent origins of life, but only one lineage left living descendants."
+frontier_natural_science__35,frontier_natural_science,Origin of Life,Life emerged on Earth within 500 million years of liquid water first appearing on the surface.
+frontier_natural_science__37,frontier_natural_science,Origin of Life,The earliest systems capable of Darwinian evolution were enclosed in membrane-bounded protocells.
+frontier_natural_science__39,frontier_natural_science,Origin of Life,A self-replicating chemical system capable of Darwinian evolution will be synthesized from non-living precursors in a laboratory by 2050.
+frontier_natural_science__41,frontier_natural_science,Astrobiology,Microbial life exists or has existed elsewhere in the Solar System.
+frontier_natural_science__43,frontier_natural_science,Astrobiology,Scientists will obtain widely accepted evidence of past or present life elsewhere in the Solar System before 2050.
+frontier_natural_science__45,frontier_natural_science,Astrobiology,Multicellular life with cell differentiation currently exists on at least one world outside the Solar System in the Milky Way.
+frontier_natural_science__47,frontier_natural_science,Astrobiology,Astronomers will obtain widely accepted evidence of an exoplanet biosignature before 2050.
+frontier_natural_science__49,frontier_natural_science,Astrobiology,The main barrier to the emergence of long-lived technological civilizations that can communicate across interstellar distances lies ahead of humanity's current stage rather than behind us.
+frontier_natural_science__5,frontier_natural_science,Cosmology,Primordial black holes account for at least 1% of the total dark matter in the universe.
+frontier_natural_science__51,frontier_natural_science,Evolution,Rising atmospheric oxygen levels were the primary trigger for the Cambrian explosion of animal diversity.
+frontier_natural_science__53,frontier_natural_science,Evolution,"Homo sapiens emerged from a broadly distributed, pan-African metapopulation rather than a single localized ancestral population."
+frontier_natural_science__55,frontier_natural_science,Evolution,Mitochondria were acquired before the host lineage that gave rise to eukaryotes had evolved the ability to engulf other cells.
+frontier_natural_science__57,frontier_natural_science,Evolution,More than 50% of speciation events in the fossil record show punctuated rather than gradual morphological change.
+frontier_natural_science__59,frontier_natural_science,Evolution,Endosymbiotic gene transfer from mitochondria and chloroplasts to the nuclear genome is still occurring at a functionally significant rate in present-day eukaryotes.
+frontier_natural_science__61,frontier_natural_science,Neuroscience,Integrated Information Theory (IIT) correctly predicts which physical systems are conscious.
+frontier_natural_science__63,frontier_natural_science,Neuroscience,Long-term memories are stored in synaptic connection patterns rather than in intracellular molecular structures.
+frontier_natural_science__65,frontier_natural_science,Neuroscience,"In arbitrary motor-decision tasks, neural activity predicts the eventual choice more than 500 ms before subjects report deciding."
+frontier_natural_science__67,frontier_natural_science,Neuroscience,Neural replay during sleep causally contributes to memory consolidation in mammals.
+frontier_natural_science__69,frontier_natural_science,Neuroscience,"In typical late-onset Alzheimer's disease, amyloid-beta accumulation is the main upstream trigger of neurodegeneration."
+frontier_natural_science__7,frontier_natural_science,Cosmology,"The universe is not spatially flat, with |Ω_k| > 10^-4."
+frontier_natural_science__71,frontier_natural_science,Earth Science,Global mean sea level will rise by more than 1 meter between 2000 and 2100.
+frontier_natural_science__73,frontier_natural_science,Earth Science,The Late Heavy Bombardment was a discrete spike in impact rates between 4.1 and 3.8 billion years ago.
+frontier_natural_science__75,frontier_natural_science,Earth Science,"During Snowball Earth glaciations, ice sheets extended to within 10 degrees of the equator."
+frontier_natural_science__77,frontier_natural_science,Earth Science,The 2091-2100 average global surface temperature will be more than 3 degrees C above the 1850-1900 average.
+frontier_natural_science__79,frontier_natural_science,Earth Science,September Arctic sea ice extent will fall below 1 million square kilometers in at least one year before 2040.
+frontier_natural_science__81,frontier_natural_science,Astrophysics,More than 80% of observed fast radio bursts originate from magnetars.
+frontier_natural_science__83,frontier_natural_science,Astrophysics,Intermediate-mass black holes (10^2 to 10^5 solar masses) exist in the centers of at least 10% of globular clusters.
+frontier_natural_science__85,frontier_natural_science,Astrophysics,The observed excess of high-energy positrons in cosmic rays is primarily produced by nearby pulsars rather than dark matter annihilation.
+frontier_natural_science__87,frontier_natural_science,Astrophysics,"Most of the Milky Way's r-process elements, such as gold and uranium, were produced by neutron-star mergers rather than by core-collapse supernovae."
+frontier_natural_science__89,frontier_natural_science,Astrophysics,Most binary black hole mergers observed by gravitational-wave detectors formed from isolated binary stars rather than through dynamical encounters in dense stellar environments.
+frontier_natural_science__9,frontier_natural_science,Cosmology,The Hubble tension (the discrepancy in expansion rate measurements) reflects new physics rather than systematic measurement errors.
+frontier_natural_science__91,frontier_natural_science,Chemistry and Materials,A material exhibiting superconductivity above 273 K at atmospheric pressure will be synthesized by 2040.
+frontier_natural_science__93,frontier_natural_science,Chemistry and Materials,"By 2040, a catalytic process will be deployed at commercial scale to synthesize ammonia at temperatures below 50 °C and pressures below 5 atm."
+frontier_natural_science__95,frontier_natural_science,Chemistry and Materials,"By 2040, a chemical recycling facility processing more than 10,000 tonnes per year of polyethylene or polypropylene waste will convert at least 50% of the carbon in that waste into ethylene or propylene."
+frontier_natural_science__97,frontier_natural_science,Genetics and Molecular Biology,"By 2035, a de novo protein designed by an AI model will receive FDA or EMA approval as a human therapeutic."
+frontier_natural_science__99,frontier_natural_science,Genetics and Molecular Biology,"By 2035, a human child will be born after clinical use of heritable genome editing intended to prevent or treat a serious genetic disease."
+historical_facts__1,historical_facts,Ancient History,The Trojan War described in Homer's Iliad is based on an actual historical conflict.
+historical_facts__11,historical_facts,Ancient History,Carthage practiced ritual child sacrifice on a substantial scale.
+historical_facts__13,historical_facts,Ancient History,The Justinian Plague in the 6th century CE killed at least 25% of the population of the Eastern Roman Empire.
+historical_facts__15,historical_facts,Ancient History,The ancient Egyptians used ramps as the primary method to construct the Great Pyramid.
+historical_facts__17,historical_facts,Medieval History,Marco Polo personally traveled to China and reached the court of Kublai Khan.
+historical_facts__19,historical_facts,Medieval History,Global average temperatures during the Medieval Warm Period (c. 900–1300 CE) matched or exceeded those of the late 20th century.
+historical_facts__21,historical_facts,Medieval History,The Mongol sack of Baghdad in 1258 caused a lasting decline in scholarly production in Iraq.
+historical_facts__23,historical_facts,Medieval History,The military successes of the First Crusade were primarily due to the political fragmentation of the Islamic Middle East rather than European military superiority.
+historical_facts__25,historical_facts,Medieval History,The tactical use of the English longbow was the decisive factor in the major English battlefield victories of the Hundred Years' War.
+historical_facts__27,historical_facts,Medieval History,The rapid territorial expansion of the early Islamic Caliphates was facilitated more by the prior exhaustion of the Byzantine and Sassanid empires than by Arab military superiority.
+historical_facts__29,historical_facts,Medieval History,The Song dynasty economy around 1100 CE had higher per-capita income than any region of Europe.
+historical_facts__3,historical_facts,Ancient History,The 'Sea Peoples' were the primary driver of societal collapse in the Eastern Mediterranean during the Late Bronze Age.
+historical_facts__31,historical_facts,Early Modern History,The global cooling of the Little Ice Age was the primary driver of the widespread state breakdowns and rebellions across Eurasia in the mid-17th century.
+historical_facts__33,historical_facts,Early Modern History,Niccolò Machiavelli's primary intention in writing The Prince was to provide sincere advice to autocratic rulers.
+historical_facts__35,historical_facts,Early Modern History,The collapse of the Ming dynasty in 1644 was primarily triggered by a sudden contraction in the global supply of silver.
+historical_facts__37,historical_facts,Early Modern History,Old World infectious diseases were the main cause of the demographic collapse of Indigenous populations in the Americas after 1492.
+historical_facts__39,historical_facts,Early Modern History,Silver imports from the Americas were the primary cause of the European Price Revolution of the 16th century.
+historical_facts__41,historical_facts,Early Modern History,The Glorious Revolution of 1688 substantially increased the English state's ability to borrow at low interest rates.
+historical_facts__43,historical_facts,Early Modern History,The military revolution of 1500-1700 was a major cause of the rise of larger centralized European states.
+historical_facts__45,historical_facts,Early Modern History,Galileo's 1633 condemnation substantially slowed open support for heliocentrism in Catholic Europe.
+historical_facts__47,historical_facts,Modern History (18th-19th c.),"In 1860, the total market value of enslaved people in the United States exceeded the combined capital value of all American manufacturing and railroads."
+historical_facts__49,historical_facts,Modern History (18th-19th c.),The Haitian Revolution (1791-1804) significantly reduced European willingness to invest in New World plantation economies in the following decade.
+historical_facts__5,historical_facts,Ancient History,The symbols of the Indus Valley Civilization constitute a writing system that encoded spoken language.
+historical_facts__51,historical_facts,Modern History (18th-19th c.),Real GDP per person in India was lower in 1900 than in 1750.
+historical_facts__53,historical_facts,Modern History (18th-19th c.),"In the decade before the First Opium War, the opium trade caused a net outflow of silver from Qing China."
+historical_facts__55,historical_facts,Modern History (18th-19th c.),Japan's rapid industrialization during the Meiji period (1868-1890) was funded primarily by domestic capital accumulation rather than foreign direct investment.
+historical_facts__57,historical_facts,Modern History (18th-19th c.),"If U.S. railroads had not existed in 1890, and freight had been moved by the best available alternatives, U.S. GDP would have been less than 10% lower."
+historical_facts__59,historical_facts,Modern History (18th-19th c.),"During the American Civil War, more soldiers died from disease and other non-combat causes than from direct battlefield injuries."
+historical_facts__61,historical_facts,20th Century History,"By December 31, 1941, the Nazi leadership had decided to murder all Jews under German control."
+historical_facts__63,historical_facts,20th Century History,Lee Harvey Oswald was the only shooter in the assassination of President Kennedy.
+historical_facts__65,historical_facts,20th Century History,"The total deaths attributable to the Chernobyl disaster exceed 10,000 people."
+historical_facts__67,historical_facts,20th Century History,"Japan would have surrendered unconditionally before December 31, 1945, even if the United States had not dropped atomic bombs on Hiroshima and Nagasaki."
+historical_facts__69,historical_facts,20th Century History,The total deaths attributable to the Great Leap Forward famine exceed 30 million people.
+historical_facts__7,historical_facts,Ancient History,A group ancestral to later Israelites migrated from Egypt into Canaan during the Late Bronze Age.
+historical_facts__71,historical_facts,20th Century History,"The Soviet Union would probably still have dissolved by December 31, 1995, even without the Reagan administration's military buildup."
+historical_facts__73,historical_facts,20th Century History,The monetary policies of the US Federal Reserve were the primary cause of the severity and duration of the Great Depression.
+historical_facts__75,historical_facts,20th Century History,The Allied strategic bombing of Germany shortened the duration of World War II in Europe by at least six months.
+historical_facts__77,historical_facts,Archaeology and Prehistory,The earliest monumental structures at Göbekli Tepe were built by communities that relied mainly on foraging rather than farming.
+historical_facts__79,historical_facts,Archaeology and Prehistory,"Modern humans reached Sahul more than 60,000 years ago."
+historical_facts__81,historical_facts,Archaeology and Prehistory,Homo naledi deliberately buried their dead in the Rising Star cave system.
+historical_facts__83,historical_facts,Archaeology and Prehistory,Neanderthals created cave paintings in Europe prior to the arrival of Homo sapiens.
+historical_facts__85,historical_facts,Archaeology and Prehistory,An extraterrestrial impact triggered the onset of the Younger Dryas cooling event.
+historical_facts__87,historical_facts,Religious and Biblical History,The historical Jesus expected the Kingdom of God to arrive within the lifetime of his contemporaries.
+historical_facts__89,historical_facts,Religious and Biblical History,The 'Q' source existed as a shared written document used independently by the authors of the Gospels of Matthew and Luke.
+historical_facts__9,historical_facts,Ancient History,The city of Rome had a population exceeding one million people at its peak during the 1st or 2nd century CE.
+historical_facts__91,historical_facts,Religious and Biblical History,The majority of the Dead Sea Scrolls were collected or produced by a Jewish sectarian community living at the Qumran site.
+historical_facts__93,historical_facts,Religious and Biblical History,The Pentateuch reached substantially its present written form during or after the Babylonian exile.
+historical_facts__95,historical_facts,Religious and Biblical History,The standardized consonantal text of the Quran was established and distributed during the reign of Caliph Uthman.
+historical_facts__97,historical_facts,Attribution and Authorship,William Shakespeare of Stratford-upon-Avon is the sole author of the plays attributed to him.
+historical_facts__99,historical_facts,Attribution and Authorship,"The painting 'Salvator Mundi', sold at auction in 2017, was painted primarily by Leonardo da Vinci."
+moral_claims__1,moral_claims,Deception,It is morally permissible to lie to protect someone's feelings when the truth would cause significant emotional harm but no practical consequences.
+moral_claims__11,moral_claims,Killing and Violence,The death penalty is a morally permissible punishment for murder.
+moral_claims__13,moral_claims,Killing and Violence,It is morally wrong to kill animals for food when affordable and nutritionally adequate alternatives are available.
+moral_claims__15,moral_claims,Killing and Violence,It is morally permissible to use violence to resist a government that systematically denies basic rights when peaceful means are unlikely to succeed.
+moral_claims__17,moral_claims,Killing and Violence,It is morally permissible to carry out a military strike that is expected to kill civilians if the civilians are not intentionally targeted and the military advantage is substantial.
+moral_claims__19,moral_claims,Killing and Violence,It is morally permissible to kill one innocent person if doing so is the only way to save five innocent people.
+moral_claims__21,moral_claims,Sexual Ethics,It is morally wrong to have sex outside of marriage.
+moral_claims__23,moral_claims,Sexual Ethics,"It is morally wrong for a manager to have a sexual relationship with a direct subordinate, even if both are consenting adults."
+moral_claims__25,moral_claims,Sexual Ethics,It is morally permissible to have an open relationship if all partners fully consent.
+moral_claims__27,moral_claims,Sexual Ethics,"It is morally permissible for adults to engage in consensual sexual practices that involve significant physical pain, provided the risk of lasting injury is low."
+moral_claims__29,moral_claims,Sexual Ethics,"It is morally permissible for a 50-year-old and a 21-year-old to have a sexual relationship, provided neither has authority over the other and both fully consent."
+moral_claims__3,moral_claims,Deception,It is morally permissible for undercover law enforcement officers to use deception to investigate serious crimes.
+moral_claims__31,moral_claims,Family and Relationships,Adult children have a moral obligation to ensure their aging parents' basic needs are met.
+moral_claims__33,moral_claims,Family and Relationships,"It is morally permissible for a couple to use anonymous sperm or egg donation to conceive a child, even though the child will not know their biological parent."
+moral_claims__35,moral_claims,Family and Relationships,A person who has had an affair has a moral obligation to tell their partner.
+moral_claims__37,moral_claims,Family and Relationships,"It is morally wrong to conceive a child when one knows there is at least a 50% chance the child will inherit a serious, life-limiting genetic disorder."
+moral_claims__39,moral_claims,Family and Relationships,It is morally permissible for parents to give young children religious instruction before the children are old enough to choose their own beliefs.
+moral_claims__41,moral_claims,Economic Ethics,Governments have a moral obligation to provide a universal basic income sufficient to cover basic needs for all residents.
+moral_claims__43,moral_claims,Economic Ethics,"Corporations have a moral obligation to reach net-zero greenhouse gas emissions by 2050, even if the law does not require it."
+moral_claims__45,moral_claims,Economic Ethics,Corporate executives have a moral obligation to maximize shareholder value even if it comes at the expense of broader social concerns.
+moral_claims__47,moral_claims,Economic Ethics,It is morally wrong for pharmaceutical companies to enforce patents on life-saving medications in low-income countries.
+moral_claims__49,moral_claims,Economic Ethics,It is morally permissible to use legal tax loopholes to minimize one's tax burden.
+moral_claims__5,moral_claims,Deception,It is morally permissible for government officials to intentionally deceive the public during a national emergency if they believe doing so will save lives.
+moral_claims__51,moral_claims,Animal Ethics,It is morally permissible to use animals for medical research that could save human lives.
+moral_claims__53,moral_claims,Animal Ethics,It is morally wrong to consume animal products produced in concentrated animal feeding operations (factory farms).
+moral_claims__55,moral_claims,Animal Ethics,"Fish used for food deserve legal protection from suffering during capture or farming, transport, and slaughter."
+moral_claims__57,moral_claims,Animal Ethics,Humans have a moral obligation to intervene in natural ecosystems to reduce the suffering of wild animals.
+moral_claims__59,moral_claims,Animal Ethics,Insects possess a level of sentience that entitles them to moral consideration.
+moral_claims__61,moral_claims,Medical Ethics,It is morally permissible for a patient to refuse to disclose their HIV-positive status to a sexual partner if they take effective precautions to prevent transmission.
+moral_claims__63,moral_claims,Medical Ethics,It is morally permissible to prioritize younger patients over older patients when both would receive similar medical benefit from the same scarce life-saving treatment.
+moral_claims__65,moral_claims,Medical Ethics,It is morally permissible to genetically modify human embryos to enhance non-disease traits such as intelligence if the intervention is shown to be safe.
+moral_claims__67,moral_claims,Medical Ethics,It is morally permissible for competent adults to be paid to donate one of their kidneys.
+moral_claims__69,moral_claims,Medical Ethics,It is morally permissible to enroll an unconscious patient in an emergency clinical trial without prior consent when no surrogate is available and the trial could directly benefit the patient.
+moral_claims__7,moral_claims,Deception,"It is morally wrong to use placebo deception in medical treatment, even when it produces genuine therapeutic benefit for the patient."
+moral_claims__71,moral_claims,Speech and Expression,It is morally permissible for news organizations to publish authentic leaked classified documents if they reveal significant government misconduct.
+moral_claims__73,moral_claims,Speech and Expression,It is morally permissible for democratic governments to criminalize public racist or religious hate speech even when it does not directly incite violence.
+moral_claims__75,moral_claims,Speech and Expression,It is morally permissible for employers to fire employees for lawful speech made outside work that conflicts with the employer's values.
+moral_claims__77,moral_claims,Speech and Expression,It is morally permissible for democratic governments to ban or restrict access to foreign-owned social media platforms on national security grounds.
+moral_claims__79,moral_claims,Speech and Expression,It is morally permissible to publicly reveal the identity of someone who anonymously posted harmful but lawful speech.
+moral_claims__81,moral_claims,Civic and Political,It is morally obligatory to vote in elections if one is eligible.
+moral_claims__83,moral_claims,Civic and Political,It is morally permissible for a democratic state to deport undocumented immigrants who have lived there for at least 10 years and have committed no serious crimes.
+moral_claims__85,moral_claims,Civic and Political,It is morally permissible to evade military conscription for a war one considers unjust.
+moral_claims__87,moral_claims,Civic and Political,It is morally permissible for corporations to spend unlimited money to influence democratic elections.
+moral_claims__89,moral_claims,Civic and Political,A region within a democratic state has a moral right to secede if a majority of its residents vote to do so in a free and fair referendum.
+moral_claims__9,moral_claims,Deception,It is morally obligatory to correct a false belief held by someone if that belief could lead them to make a decision that significantly harms their interests.
+moral_claims__91,moral_claims,Personal Conduct,It is morally permissible to use lethal force in self-defense even when safe retreat is possible.
+moral_claims__93,moral_claims,Personal Conduct,"It is morally wrong to purchase products made with child labor, even if the children's families depend on the income."
+moral_claims__95,moral_claims,Personal Conduct,It is morally permissible to ghost someone (cut off all contact without explanation) to end a personal relationship.
+moral_claims__97,moral_claims,Personal Conduct,A person who can prevent a stranger's death at modest personal cost is morally obliged to do so.
+moral_claims__99,moral_claims,Personal Conduct,It is morally wrong to maintain friendships solely for professional networking purposes while concealing this motivation.
+nutrition_health__1,nutrition_health,Macronutrients,Isocaloric replacement of 50 g/day of complex carbohydrates with added fructose increases liver fat content by at least 20% over 12 weeks in healthy adults.
+nutrition_health__11,nutrition_health,Sugar and Sweeteners,Added sugar consumption above 50 g/day causes fatty liver disease independently of total caloric intake.
+nutrition_health__13,nutrition_health,Sugar and Sweeteners,Artificial sweeteners such as aspartame and sucralose increase type 2 diabetes risk by more than 10% compared with water.
+nutrition_health__15,nutrition_health,Sugar and Sweeteners,Consuming more than 50 g/day of added sugar during pregnancy increases the risk of gestational diabetes by more than 20%.
+nutrition_health__17,nutrition_health,Sugar and Sweeteners,Sugar consumption above 50 g/day increases type 2 diabetes risk by more than 25% independently of body weight.
+nutrition_health__19,nutrition_health,Sugar and Sweeteners,Regular consumption of erythritol increases the risk of major adverse cardiovascular events by more than 10%.
+nutrition_health__21,nutrition_health,Specific Foods,Consuming 1 or more eggs per day increases cardiovascular disease risk by more than 10% compared to consuming fewer than 1 egg per week.
+nutrition_health__23,nutrition_health,Specific Foods,Diets where more than 50% of calories come from ultra-processed foods increase all-cause mortality by more than 15% independently of macronutrient composition and total caloric intake.
+nutrition_health__25,nutrition_health,Specific Foods,"Consuming at least two servings of fermented foods per day (e.g., yogurt, kimchi, sauerkraut) measurably increases gut microbial diversity and reduces markers of systemic inflammation within 10 weeks."
+nutrition_health__27,nutrition_health,Specific Foods,Drinking one or more 12-ounce sugar-sweetened beverages per day increases type 2 diabetes risk by more than 20% compared to drinking fewer than one per week.
+nutrition_health__29,nutrition_health,Specific Foods,Consuming at least 30 g/day of dark chocolate (at least 70% cocoa) reduces resting systolic blood pressure by more than 3 mmHg compared to consuming no chocolate.
+nutrition_health__3,nutrition_health,Macronutrients,"During calorie restriction in adults, protein intake of at least 1.6 g/kg/day preserves at least 1 kg more lean mass over 6 months than protein intake of 0.8 g/kg/day."
+nutrition_health__31,nutrition_health,Supplements,Daily multivitamin use reduces all-cause mortality by more than 5% in adults without diagnosed micronutrient deficiencies.
+nutrition_health__33,nutrition_health,Supplements,Daily supplementation with NAD+ precursors such as NMN or NR improves 6-minute walk test distance by more than 5% in healthy adults aged 65 or older.
+nutrition_health__35,nutrition_health,Supplements,Calcium supplementation above 1000 mg/day of elemental calcium increases cardiovascular disease risk by more than 15% in adults aged 50 or older.
+nutrition_health__37,nutrition_health,Supplements,Probiotic supplementation reduces the risk of antibiotic-associated diarrhea by more than 25% in adults taking antibiotics.
+nutrition_health__39,nutrition_health,Supplements,Psyllium fiber supplementation of at least 10 g/day lowers LDL cholesterol by more than 10% in adults with elevated LDL cholesterol.
+nutrition_health__41,nutrition_health,Weight and Metabolism,"Basal metabolic rate varies by more than 20% between individuals matched for size, age, sex, and body composition."
+nutrition_health__43,nutrition_health,Weight and Metabolism,An ad libitum diet of ultra-processed foods causes an average increased energy intake of >300 kcal/day compared to an unprocessed diet matched for energy density and macronutrients.
+nutrition_health__45,nutrition_health,Weight and Metabolism,More than 75% of individuals who lose >15% of their body weight via GLP-1 agonists regain at least half of the lost weight within two years of completely ceasing the medication.
+nutrition_health__47,nutrition_health,Weight and Metabolism,Sleeping 6 hours or less per night for at least one week causes an average increase in daily energy intake of >150 kcal compared with sleeping 8 hours or more in adults.
+nutrition_health__49,nutrition_health,Weight and Metabolism,"In adults with obesity, a structured exercise program of at least 150 minutes per week, without prescribed calorie restriction, causes more than 3 kg greater average weight loss over 12 months than no structured exercise program."
+nutrition_health__5,nutrition_health,Macronutrients,Protein intake above 2 g/kg/day for at least 10 years reduces estimated glomerular filtration rate by at least 10% in healthy adults.
+nutrition_health__51,nutrition_health,Fasting,16:8 intermittent fasting improves insulin sensitivity by more than 10% beyond the effects of continuous caloric restriction matched for weight loss.
+nutrition_health__53,nutrition_health,Fasting,Time-restricted eating results in at least a 5 percentage point higher proportion of total weight lost as lean mass compared to continuous caloric restriction.
+nutrition_health__55,nutrition_health,Fasting,Alternate-day fasting results in at least 20% greater weight maintenance at 1 year compared to daily continuous caloric restriction.
+nutrition_health__57,nutrition_health,Fasting,Three monthly cycles of a 5-day fasting-mimicking diet reduce baseline circulating IGF-1 levels by more than 20% in healthy adults.
+nutrition_health__59,nutrition_health,Fasting,"In adults with type 2 diabetes, a 5:2 intermittent fasting regimen leads to HbA1c below 6.5% without glucose-lowering medication at 12 months in at least 10 percentage points more participants than continuous caloric restriction."
+nutrition_health__61,nutrition_health,Alcohol,"After adjusting for sick-quitter bias, consuming 1-2 alcoholic drinks daily increases all-cause mortality compared to lifetime abstention."
+nutrition_health__63,nutrition_health,Alcohol,"For women, each additional 10 g/day of alcohol increases breast cancer risk by more than 5% on average, including at low levels of consumption."
+nutrition_health__65,nutrition_health,Alcohol,Treatment with GLP-1 receptor agonist drugs such as semaglutide reduces heavy drinking days by more than 20% over 6 months in adults with alcohol use disorder compared to placebo.
+nutrition_health__67,nutrition_health,Alcohol,Consuming more than 14 alcoholic drinks per week accelerates brain volume loss by an amount equivalent to at least two additional years of aging over a decade.
+nutrition_health__69,nutrition_health,Alcohol,Prominent warning labels on alcoholic beverages that explicitly mention cancer risk reduce per-capita alcohol sales by more than 2% within 3 years.
+nutrition_health__7,nutrition_health,Macronutrients,Ketogenic diets with fewer than 20 g/day of carbohydrate produce at least 10% greater fat loss than higher-carbohydrate diets with the same calorie and protein intake over 12 weeks.
+nutrition_health__71,nutrition_health,Food Quality,Pesticide residues on conventionally grown produce at typical US dietary exposure levels cause more than a 1% relative increase in lifetime cancer risk.
+nutrition_health__73,nutrition_health,Food Quality,Cooking starchy foods at high temperatures produces acrylamide at levels that increase lifetime cancer risk by more than 5% at typical Western dietary exposures.
+nutrition_health__75,nutrition_health,Food Quality,"At equal calories and macronutrients, diets high in ultra-processed foods worsen insulin sensitivity in adults."
+nutrition_health__77,nutrition_health,Food Quality,Approved synthetic food colorings increase hyperactivity symptoms in at least 5% of children at typical dietary intakes.
+nutrition_health__79,nutrition_health,Food Quality,"Among children, regular raw cow's milk consumption lowers physician-diagnosed asthma incidence compared with pasteurized milk from the same source."
+nutrition_health__81,nutrition_health,Hydration,"For most healthy sedentary adults in temperate conditions, drinking to thirst is sufficient to keep blood sodium and plasma osmolality in the normal range."
+nutrition_health__83,nutrition_health,Hydration,Consuming caffeine at daily doses below 400mg causes a net fluid loss that requires additional water intake to compensate.
+nutrition_health__85,nutrition_health,Hydration,"During continuous endurance exercise lasting more than 90 minutes, a drink containing carbohydrate and sodium improves average performance by at least 2% compared with plain water."
+nutrition_health__87,nutrition_health,Hydration,"In moderate-to-heavy work or exercise in hot conditions, drinking to thirst alone leaves more than 25% of adults more than 2% below their starting body weight."
+nutrition_health__89,nutrition_health,Hydration,"Compared with younger adults, adults over 65 show a weaker thirst response after similar levels of dehydration."
+nutrition_health__9,nutrition_health,Macronutrients,Daily supplementation with more than 1 g of omega-3 fatty acids (EPA+DHA) reduces cardiovascular mortality by more than 10% in adults with elevated cardiovascular risk.
+nutrition_health__91,nutrition_health,Diet Patterns,Adherence to a Mediterranean diet reduces the incidence of major cardiovascular events by more than 25% compared to a standard Western diet.
+nutrition_health__93,nutrition_health,Diet Patterns,Ketogenic diets induce remission of type 2 diabetes at more than double the rate of guideline-based low-fat diets over 12 months in randomized trials.
+nutrition_health__95,nutrition_health,Diet Patterns,A whole-food plant-based diet reduces LDL cholesterol by more than 15% compared to an omnivorous diet matched for total calories and fiber over 12 weeks.
+nutrition_health__97,nutrition_health,Diet Patterns,Caloric restriction of 25% extends median lifespan by more than 10% in humans.
+nutrition_health__99,nutrition_health,Diet Patterns,Diets tailored to individual genetics or gut microbiome data produce at least 20% greater weight loss than standard dietary advice over 6 months.
+paranormal_claims__1,paranormal_claims,Extrasensory Perception,At least one form of extrasensory perception exists in humans.
+paranormal_claims__11,paranormal_claims,Psychokinesis,A human has moved a visible physical object with mass greater than 1 gram using only mental intention under controlled scientific conditions that ruled out ordinary physical causes.
+paranormal_claims__13,paranormal_claims,Psychokinesis,"Under blinded, automated conditions, human attention can measurably alter the interference pattern in a double-slit optical experiment."
+paranormal_claims__15,paranormal_claims,Psychokinesis,"After correcting for publication bias and questionable research practices, the laboratory psychokinesis literature would still show a positive overall effect with a 95% confidence interval excluding zero."
+paranormal_claims__17,paranormal_claims,Psychokinesis,"Human mental intention can reliably alter the skin conductance or heart rate of a distant, sensory-isolated human subject."
+paranormal_claims__19,paranormal_claims,Psychokinesis,Human mental intention can bias the statistical distribution of random events that were physically generated before the intention was formed but remained unobserved until afterward.
+paranormal_claims__21,paranormal_claims,UFOs and Extraterrestrials,Intelligent extraterrestrial beings have visited Earth within the past 100 years.
+paranormal_claims__23,paranormal_claims,UFOs and Extraterrestrials,"By 2035, a major scientific organization will publicly state that evidence of past or present extraterrestrial life has been discovered."
+paranormal_claims__25,paranormal_claims,UFOs and Extraterrestrials,There is currently at least one other intelligent extraterrestrial civilization within the Milky Way galaxy.
+paranormal_claims__27,paranormal_claims,UFOs and Extraterrestrials,The 1947 Roswell incident involved the recovery of materials or craft of extraterrestrial origin.
+paranormal_claims__29,paranormal_claims,UFOs and Extraterrestrials,"By 2040, a detected signal or artifact will be widely accepted as evidence of extraterrestrial intelligence."
+paranormal_claims__3,paranormal_claims,Extrasensory Perception,Information can be transmitted directly from one human mind to another without physical signals (telepathy).
+paranormal_claims__31,paranormal_claims,Ghosts and Afterlife,Human consciousness continues to exist in some form after biological death.
+paranormal_claims__33,paranormal_claims,Ghosts and Afterlife,"Reincarnation occurs, with some individuals retaining memories from previous lives."
+paranormal_claims__35,paranormal_claims,Ghosts and Afterlife,"Under controlled conditions, some people reporting out-of-body experiences can accurately identify hidden targets outside their normal sensory range."
+paranormal_claims__37,paranormal_claims,Ghosts and Afterlife,At least some afterlife states are shaped by a person's actions or character during life.
+paranormal_claims__39,paranormal_claims,Ghosts and Afterlife,Some deathbed visions are genuine encounters with deceased persons.
+paranormal_claims__41,paranormal_claims,Cryptozoology,A breeding population of large undiscovered primates (Bigfoot/Sasquatch) exists in North America.
+paranormal_claims__43,paranormal_claims,Cryptozoology,A living sauropod dinosaur (Mokele-mbembe) inhabits the Congo River basin.
+paranormal_claims__45,paranormal_claims,Cryptozoology,"A breeding population of large, undiscovered hominids (Yeti) exists in the Himalayas."
+paranormal_claims__47,paranormal_claims,Cryptozoology,"The Mongolian Death Worm is a real, undiscovered animal species inhabiting the Gobi Desert."
+paranormal_claims__49,paranormal_claims,Cryptozoology,"The Skunk Ape, a large undiscovered primate distinct from Bigfoot, exists in the swamps of the southeastern United States."
+paranormal_claims__5,paranormal_claims,Extrasensory Perception,"In blinded remote-viewing experiments, participants identify hidden target information at rates above chance."
+paranormal_claims__51,paranormal_claims,Alternative Medicine,Homeopathic preparations diluted beyond Avogadro's limit produce therapeutic effects beyond placebo.
+paranormal_claims__53,paranormal_claims,Alternative Medicine,Reflexology pressure applied to specific zones on the feet produces therapeutic effects on the corresponding mapped internal organs beyond those of general foot massage.
+paranormal_claims__55,paranormal_claims,Alternative Medicine,Applied kinesiology muscle testing can accurately diagnose nutritional deficiencies or allergies.
+paranormal_claims__57,paranormal_claims,Alternative Medicine,Ear candling creates negative pressure that draws toxins or impurities from the ear canal or sinuses.
+paranormal_claims__59,paranormal_claims,Alternative Medicine,Traditional Chinese Medicine tongue diagnosis can accurately identify specific internal organ pathologies at rates above chance in blinded assessments.
+paranormal_claims__61,paranormal_claims,Astrology and Divination,"In preregistered blinded studies, professional astrologers can match natal charts to the correct participants' standardized personality profiles at rates above chance."
+paranormal_claims__63,paranormal_claims,Astrology and Divination,Tarot card readings predict future life events at rates significantly exceeding chance.
+paranormal_claims__65,paranormal_claims,Astrology and Divination,Individuals can correctly identify their true sun sign horoscope from a set of 12 unlabeled horoscopes at a rate significantly higher than chance.
+paranormal_claims__67,paranormal_claims,Astrology and Divination,"In randomized experiments, receiving a favorable versus unfavorable horoscope or tarot reading measurably changes recipients' short-term choices."
+paranormal_claims__69,paranormal_claims,Astrology and Divination,Numerological analysis of a person's birth date and name can predict major life events at rates above chance.
+paranormal_claims__7,paranormal_claims,Extrasensory Perception,"By 2030, at least two independent preregistered multi-site studies will each report p < 0.01 evidence for the same ESP paradigm."
+paranormal_claims__71,paranormal_claims,Energy Healing and Biofields,Reiki practitioners can transmit a healing energy that produces measurable physiological effects beyond placebo in blinded trials.
+paranormal_claims__73,paranormal_claims,Energy Healing and Biofields,"Acupuncture produces its therapeutic effects by manipulating a flow of vital energy (qi) through meridians, rather than through conventional neurophysiological mechanisms."
+paranormal_claims__75,paranormal_claims,Energy Healing and Biofields,Crystal placement on or near the body produces physiological effects beyond placebo in blinded conditions.
+paranormal_claims__77,paranormal_claims,Energy Healing and Biofields,"Specific sound frequencies (e.g., 432 Hz, 528 Hz) produce therapeutic effects on human cells or tissues beyond those of matched control frequencies."
+paranormal_claims__79,paranormal_claims,Energy Healing and Biofields,Qigong masters can emit measurable external qi energy that produces biological effects on isolated cells or organisms in controlled experiments.
+paranormal_claims__81,paranormal_claims,Fringe Science,Morphic resonance — a collective memory in nature — causally influences the behavior of organisms or crystallization patterns independently of known physical mechanisms.
+paranormal_claims__83,paranormal_claims,Fringe Science,Low-energy nuclear reactions produce excess heat in independently replicated experiments.
+paranormal_claims__85,paranormal_claims,Fringe Science,The Great Pyramid of Giza was built using construction techniques involving the manipulation of gravitational or acoustic forces not recognized by modern physics.
+paranormal_claims__87,paranormal_claims,Fringe Science,Zero-point energy can be extracted from the quantum vacuum in usable quantities sufficient to power a macroscopic device.
+paranormal_claims__89,paranormal_claims,Fringe Science,"The Earth is expanding in volume over geological time, and this expansion rather than subduction is the primary driver of continental drift."
+paranormal_claims__9,paranormal_claims,Extrasensory Perception,"The positive effect sizes observed in meta-analyses of ESP research cannot be fully explained by publication bias, p-hacking, or methodological flaws."
+paranormal_claims__91,paranormal_claims,Anomalous Claims,The Bermuda Triangle has a statistically higher rate of unexplained ship and aircraft disappearances than comparable ocean regions after controlling for traffic volume.
+paranormal_claims__93,paranormal_claims,Anomalous Claims,"Some poltergeist phenomena involve physical disturbances that cannot be explained by fraud, unconscious motor activity, or known physical causes."
+paranormal_claims__95,paranormal_claims,Anomalous Claims,Dowsers can locate underground water sources at rates significantly above chance in blinded field trials.
+paranormal_claims__97,paranormal_claims,Anomalous Claims,At least one archaeological artifact exists that demonstrably could not have been produced with the technology available to the culture and time period to which it is attributed.
+paranormal_claims__99,paranormal_claims,Anomalous Claims,Precognitive dreams that accurately depict specific future events before they occur happen at rates significantly exceeding chance coincidence.
+politically_polarizing__1,politically_polarizing,Climate,Global greenhouse gas emissions in 2035 will be at least 10% lower than their 2025 levels.
+politically_polarizing__11,politically_polarizing,Immigration,Undocumented immigrants in the US are arrested for violent crimes at rates more than 20% lower than native-born citizens.
+politically_polarizing__13,politically_polarizing,Immigration,Undocumented immigrants in the US pay more in taxes annually than they receive in government benefits.
+politically_polarizing__15,politically_polarizing,Immigration,Sanctuary city policies increase violent crime rates by more than 5% compared to otherwise similar non-sanctuary cities.
+politically_polarizing__17,politically_polarizing,Immigration,Refugees admitted to the US have higher employment rates than native-born Americans within 10 years of arrival.
+politically_polarizing__19,politically_polarizing,Immigration,Implementing a policy requiring asylum seekers at the US southern border to wait in Mexico while their claims are processed would reduce illegal border crossings by more than 30%.
+politically_polarizing__21,politically_polarizing,Guns,US states in the top quartile of gun control strictness have gun death rates more than 30% lower than states in the bottom quartile.
+politically_polarizing__23,politically_polarizing,Guns,"Defensive gun uses (brandishing or firing to prevent a crime) occur more than 500,000 times annually in the US."
+politically_polarizing__25,politically_polarizing,Guns,US concealed carry permit holders are convicted of crimes at rates more than 80% lower than the general adult population.
+politically_polarizing__27,politically_polarizing,Guns,US schools with armed personnel experience fewer casualties per active shooting incident than schools without armed personnel.
+politically_polarizing__29,politically_polarizing,Guns,US states requiring universal background checks for all firearm sales have age-adjusted firearm homicide rates at least 10% lower than states without such requirements.
+politically_polarizing__3,politically_polarizing,Climate,Unmitigated climate change will reduce global GDP by more than 10% by 2100 compared to a scenario with temperatures held constant.
+politically_polarizing__31,politically_polarizing,Race,Black Americans are killed by police at a rate more than 2.5 times higher per capita than white Americans.
+politically_polarizing__33,politically_polarizing,Race,Race-conscious college admissions increase Black student graduation rates by more than 5 percentage points.
+politically_polarizing__35,politically_polarizing,Race,"Black home buyers are, on average, quoted higher mortgage interest rates than white buyers with equivalent credit scores and down payments."
+politically_polarizing__37,politically_polarizing,Race,Diversity training programs reduce measured discriminatory behavior in corporate employment decisions by more than 10%.
+politically_polarizing__39,politically_polarizing,Race,The Black-white gap in standardized test scores would shrink by more than 50% if Black and white students attended equally-funded schools.
+politically_polarizing__41,politically_polarizing,Gender,"After controlling for occupation, hours, experience, and industry, women earn more than 5% less than men for equivalent work."
+politically_polarizing__43,politically_polarizing,Gender,Transgender women who transition after male puberty retain a greater than 10% physical performance advantage over cisgender women in competitive athletics.
+politically_polarizing__45,politically_polarizing,Gender,National paid family leave policies increase women's overall labor force participation rates by more than 5 percentage points.
+politically_polarizing__47,politically_polarizing,Gender,Public companies that implement gender quotas for their boards (>30% women) subsequently show higher returns on equity than comparable companies without quotas.
+politically_polarizing__49,politically_polarizing,Gender,"Blind evaluations (e.g., removing names from resumes) in hiring processes for male-dominated industries increase the proportion of women hired by more than 10%."
+politically_polarizing__5,politically_polarizing,Climate,Achieving net-zero emissions by 2050 will cost more than 5% of global GDP cumulatively.
+politically_polarizing__51,politically_polarizing,Elections,"More than 10,000 fraudulent votes were cast in the 2020 US presidential election."
+politically_polarizing__53,politically_polarizing,Elections,"In a peer-reviewed randomized controlled trial published before 2030, an interactive frontier AI model will be shown to be more effective than human canvassers at shifting voter preferences."
+politically_polarizing__55,politically_polarizing,Elections,Russian social media operations shifted the vote margin by more than 0.5 percentage points in at least one swing state in the 2016 US presidential election.
+politically_polarizing__57,politically_polarizing,Elections,"AI-generated deepfakes will be widely credited by major news organizations with altering the outcome of a US congressional, senatorial, or gubernatorial race before 2030."
+politically_polarizing__59,politically_polarizing,Elections,A US presidential candidate will win the Electoral College despite losing the national popular vote in at least one election between 2028 and 2040.
+politically_polarizing__61,politically_polarizing,Economics,Increasing the US federal minimum wage to $20 per hour by 2030 would reduce employment among affected workers by more than 5%.
+politically_polarizing__63,politically_polarizing,Economics,Implementing a single-payer healthcare system in the US would reduce total national healthcare spending as a percentage of GDP while maintaining or improving average life expectancy.
+politically_polarizing__65,politically_polarizing,Economics,"Implementing a Universal Basic Income of $1,000 per month (adjusted for inflation) for all US adults would reduce the prime-age labor force participation rate by more than 3 percentage points."
+politically_polarizing__67,politically_polarizing,Economics,Implementing a universal 10% tariff on all US imports would reduce real US GDP by more than 1% within three years.
+politically_polarizing__69,politically_polarizing,Economics,Raising the US federal corporate tax rate from 21% to 28% would reduce domestic corporate investment by more than 5% within five years.
+politically_polarizing__7,politically_polarizing,Climate,Achieving net-zero emissions by 2050 without nuclear power would cost more than 50% more than achieving it with nuclear power.
+politically_polarizing__71,politically_polarizing,COVID,COVID-19 lockdowns in spring 2020 reduced deaths by more than 50% compared to a no-lockdown counterfactual.
+politically_polarizing__73,politically_polarizing,COVID,"COVID-19 vaccines prevented more than 500,000 deaths in the US through December 2022."
+politically_polarizing__75,politically_polarizing,COVID,Prior COVID-19 infection provides more than 80% as much protection against symptomatic reinfection as a primary mRNA vaccine series for at least 6 months.
+politically_polarizing__77,politically_polarizing,COVID,SARS-CoV-2 more likely originated from a lab incident at the Wuhan Institute of Virology than from natural zoonotic spillover.
+politically_polarizing__79,politically_polarizing,COVID,Excess all-cause mortality in the US during 2020-2022 exceeded official COVID-19 death counts by more than 15%.
+politically_polarizing__81,politically_polarizing,Criminal Justice,Increased incarceration between 1980 and 2010 accounts for more than 20% of the decline in US violent crime during that period.
+politically_polarizing__83,politically_polarizing,Criminal Justice,Eliminating cash bail increases pretrial failure-to-appear rates by more than 10 percentage points.
+politically_polarizing__85,politically_polarizing,Criminal Justice,US states that legalize recreational marijuana see a reduction in opioid overdose deaths of more than 10% within three years.
+politically_polarizing__87,politically_polarizing,Criminal Justice,Portugal's 2001 drug decriminalization policy reduced long-term drug overdose deaths by more than 25% compared to its pre-decriminalization baseline.
+politically_polarizing__89,politically_polarizing,Criminal Justice,US cities that cut police budgets by more than 10% in 2020-2021 experienced violent crime increases more than 10% above the national trend.
+politically_polarizing__9,politically_polarizing,Climate,Battery electric vehicles will account for more than 50% of new passenger vehicle sales globally in 2035.
+politically_polarizing__91,politically_polarizing,Media and Institutions,"At the top 50 US universities, registered Democrats outnumber registered Republicans among faculty members by a ratio of more than 5 to 1."
+politically_polarizing__93,politically_polarizing,Media and Institutions,"By 2030, more than half of US adults will report getting the majority of their daily news from AI-generated summaries rather than original news articles or broadcasts."
+politically_polarizing__95,politically_polarizing,Media and Institutions,"By 2028, the average daily audience of the top three independent political podcasts or video streams will exceed the combined primetime viewership of the three largest US cable news networks."
+politically_polarizing__97,politically_polarizing,Media and Institutions,Comprehensive academic studies will confirm that legacy US mainstream media outlets use significantly more negative language when covering conservative politicians compared to liberal politicians.
+politically_polarizing__99,politically_polarizing,Media and Institutions,Independent audits will demonstrate that the recommendation algorithms of major social media platforms systematically amplify politically polarizing content over moderate content to maximize user engagement.
